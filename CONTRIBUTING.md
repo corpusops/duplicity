@@ -35,4 +35,4 @@ Duplicity Authors
 - Xavier Lucas <xavier.lucas@corp.ovh.com>
 - Yigal Asnis
 - Syeam Bin Abdullah <syeamtechdemon@gmail.com>
-- Mathieu Le Marec - Pasquet <kiorky@cryptelium.net>
+- Makina Corpus <freesoftware@makina-corpus.com>
